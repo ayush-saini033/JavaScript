@@ -1,2 +1,0 @@
-ole.log(this)
-}
